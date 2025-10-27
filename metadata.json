@@ -1,0 +1,5 @@
+{
+  "name": "Gina Physio Booking",
+  "description": "A booking application for Gina, a solo physiotherapist, allowing users to schedule, manage, and cancel appointments. It integrates with Google Calendar and Gmail for seamless scheduling and communication.",
+  "requestFramePermissions": []
+}
